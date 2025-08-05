@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+.t2{
+    background-color: #E6E6FA;
+    text-align: center;
+    font-family: Fredoka One;
+    font-size: 92px;
+    width:840px;
+    border-radius: 32px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(to right, #9933CC, #CC6699);    
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.jc{
+    background-color: #AE97CF;
+    height: 90px;
+    width: 330px;
+    padding: 20px;
+    border-radius: 15px;
+    position: relative;
+    top:300px;
+    left:80px;
+}
+
+.create{
+    width: 190px;
+    height:63px ;
+    border-radius: 15px;
+    position: absolute;
+    left:630px;
+    top: 405px;
+    border: none;
+    outline: none;
+    background: linear-gradient(to right, #9933CC, #CC6699); 
+    text-align:center;
+    font-size: 33;
+    font-family: Fredoka One;
+}
+.quiz{
+    width: 190px;
+    height:63px ;
+    border-radius: 15px;
+    position: absolute;
+    right:150px;
+    top: 405px;
+    border: none;
+    outline: none;
+    background: linear-gradient(to right, #9933CC, #CC6699); 
+    text-align:center;
+    font-size: 33;
+    font-family: Fredoka One;
+}

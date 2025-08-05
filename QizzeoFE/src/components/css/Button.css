@@ -1,0 +1,17 @@
+.custom-button {
+    background-color:#C770DC; 
+    color: #000000; 
+    padding: 10px 20px;
+    border: 5px solid #C770DC;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease; 
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bold;
+  }
+  
+  .custom-button.hovered {
+    background-color: #E6E6FA;
+    color: #C770DC;
+    border-color: #C770DC;
+  }

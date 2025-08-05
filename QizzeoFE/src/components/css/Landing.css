@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200;300;400;500;600;700;800;900&display=swap');
+.Logo {
+    position: absolute;
+    top: 10px;
+    left: 25px;
+}
+.Heading{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 36px;   
+    position: absolute;
+    top: 250px;
+    left: 100px;
+
+}
+.topic{
+    color:black;
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+    position: relative;
+    top:380px;
+    left:100px;
+
+}
+.Photo{
+    position:absolute;
+    top:180px;
+    right:100px;
+}
+.Login{
+    position: absolute;
+    text-decoration: none;
+    color: #000;
+    top:45px;
+    right:250px;
+    font-size:20px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bold;
+}
+.signB {
+    position: absolute;
+    top: 36px;
+    right: 100px;
+    z-index: 10;
+}

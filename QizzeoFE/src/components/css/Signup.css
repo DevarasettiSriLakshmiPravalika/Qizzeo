@@ -1,0 +1,37 @@
+.txt{
+    background-color: #E6E6FA;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 17px;
+    width: 426px;
+    height: 50px;
+    border:none;
+    outline:none;
+    color: #00000043;
+    position: relative;
+    top: 150px;
+}
+.signupD{
+    padding: 10px;
+    background-color: #6666798b;
+    height: 550px;
+    width: 494px;
+    border-radius: 32px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.l5{
+    bottom: 18%;
+    position: absolute;
+    left: 50px;
+    
+}
+.l6{
+    bottom: 1px;
+    left: 190px;
+    position: absolute;
+    text-decoration: none;
+    color: #700a8def;
+}

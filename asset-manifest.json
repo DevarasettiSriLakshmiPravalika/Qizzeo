@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Qizzeo/static/css/main.bf62bb2c.css",
-    "main.js": "/Qizzeo/static/js/main.ef6c2d28.js",
+    "main.js": "/Qizzeo/static/js/main.a0e91a29.js",
     "static/media/image.png": "/Qizzeo/static/media/image.a8c93ec576ef00d08804.png",
     "static/media/logo.png": "/Qizzeo/static/media/logo.2acd6a5aef9955d96879.png",
     "static/media/LOGO1.png": "/Qizzeo/static/media/LOGO1.e055a91db848f64649f1.png",
     "index.html": "/Qizzeo/index.html",
     "main.bf62bb2c.css.map": "/Qizzeo/static/css/main.bf62bb2c.css.map",
-    "main.ef6c2d28.js.map": "/Qizzeo/static/js/main.ef6c2d28.js.map"
+    "main.a0e91a29.js.map": "/Qizzeo/static/js/main.a0e91a29.js.map"
   },
   "entrypoints": [
     "static/css/main.bf62bb2c.css",
-    "static/js/main.ef6c2d28.js"
+    "static/js/main.a0e91a29.js"
   ]
 }

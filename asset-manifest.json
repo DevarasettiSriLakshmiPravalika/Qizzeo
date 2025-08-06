@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/QizzeoFE/static/css/main.bf62bb2c.css",
+    "main.js": "/QizzeoFE/static/js/main.deefda02.js",
+    "static/media/image.png": "/QizzeoFE/static/media/image.a8c93ec576ef00d08804.png",
+    "static/media/logo.png": "/QizzeoFE/static/media/logo.2acd6a5aef9955d96879.png",
+    "static/media/LOGO1.png": "/QizzeoFE/static/media/LOGO1.e055a91db848f64649f1.png",
+    "index.html": "/QizzeoFE/index.html",
+    "main.bf62bb2c.css.map": "/QizzeoFE/static/css/main.bf62bb2c.css.map",
+    "main.deefda02.js.map": "/QizzeoFE/static/js/main.deefda02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf62bb2c.css",
+    "static/js/main.deefda02.js"
+  ]
+}

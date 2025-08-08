@@ -13,7 +13,7 @@ const Landing = ()=>{
             <text className='Heading'>Engage and Educate with <br/>Interactive Quizzes</text>
             <p className="topic">Easily create and share fun quizzes for any occasion.  Test knowledge,<br/> boost engagement, and make learning enjoyable for colleagues,<br/> friends, or students.</p>
             <img className="Photo" src={photo} height="460px" width="496px" alt="landImg"/>
-            <a className="Login" href="/login">Login</a>
+            <a className="Login" href="/#/login">Login</a>
             <Link className="signB" to ="/signup">
                 <Button text="Signup"/>
             </Link>

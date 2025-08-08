@@ -71,7 +71,7 @@ const Signup = () => {
                         />
                         <br /><br />
                         <p className="l5">
-                            Already have an account? <a className="l6" href="/login">Login</a>
+                            Already have an account? <a className="l6" href="/#/login">Login</a>
                         </p>
                     </center>
                     <button className="sub" type="submit"><Button text="Sign Up"/></button>

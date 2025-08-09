@@ -58,7 +58,7 @@ const Login = () => {
                             required
                         /><br />
                         <a href='/landing' className='l2'>Forgot Password?</a><br /><br />
-                        <text className='l3'>Don't have an account? <a href='/signup' className='l4'>Sign Up</a></text><br /><br />
+                        <text className='l3'>Don't have an account? <a href='#/signup' className='l4'>Sign Up</a></text><br /><br />
                     </center>
                     <button className='sub' type='submit'>
                         <Button text="Go" />
